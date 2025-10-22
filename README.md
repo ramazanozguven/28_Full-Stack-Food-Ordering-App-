@@ -1,6 +1,6 @@
 # 🍔 Full Stack Food Ordering App 
 
-![Projektvorschau]()
+![Projektvorschau](https://github.com/ramazanozguven/28_Full-Stack-Food-Ordering-App-/blob/63d850d7098a6f25cf4be232ad3735849b7857b3/Projektvorschau.png)
 
 ## Responsive Restaurant Website mit Next.js & MongoDB
 
